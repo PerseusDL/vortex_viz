@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="grc">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Greek Anthology, Volume V</title>
+                <title type="sub">Machine readable text</title>
+                <editor role="editor" n="Loeb">W. R. Paton</editor>
+                <funder>The National Endownment for the Humantities</funder>
+                <funder>Google Digital Humanities Awards Program</funder>
+                <sponsor>Perseus Project, Tufts University</sponsor>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <resp>Prepared under the supervision of</resp>
+                    <name>Lisa Cerrato</name>
+                    <name>Alison Babeu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <listBibl>
+                    <bibl>
+                        <title>The Greek Anthology</title>
+                        <respStmt>
+                            <resp>with an English Translation by</resp>
+                            <name>W. R. Paton</name>
+                        </respStmt>
+                        <pubPlace>London</pubPlace>
+                        <publisher>William Heinemann Ltd.</publisher>
+                        <date>1927</date>
+                        <biblScope type="volume">5</biblScope>
+                        <biblScope type="chapter">12</biblScope>
+                    </bibl>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>optical character recognition</p>
+            <refsDecl>
+                <refState unit="book" delim="."/>
+                <refState unit="chapter" n="chunk"/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit="edition" delim="."/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="grc">Greek</language>
+                <language ident="lat">Latin</language>
+            </langUsage>
+        </profileDesc>            
+    </teiHeader>
+    <text n="urn:cts:greekLit:tlg7000.tlg001.perseus-grc1" xml:lang="grc">
+        <body>
+         <div type="book" n="13" org="uniform" sample="medial">
+            <div type="chapter" n="12" org="uniform" sample="complete">
+               <div type="edition" n="urn:cts:greekLit:tlg1396.tlg001.perseus-grc1">
+                  <w>ΗΓΗΣΙΠΠΟΥ</w> 
+                  <w>ἐπὶ</w> 
+                  <w>ἑξαμέτρου</w> 
+                  <w>τρίμετρον</w> 
+                  <w>ἐπαδόμενον</w> 
+                  <w n="1-1"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-1']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-2'])"
+                     ana="PRED">ἐρρέτω</w> 
+                  <w n="1-2"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-4'])"
+                     ana="SBJ_CO">ἦμαρ</w> 
+                  <w n="1-3"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-3'])"
+                     ana="ATR">ἐκεῖνο</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="1-5"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-5'])"
+                     ana="AuxY">καὶ</w> 
+                  <w n="1-6"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-7'])"
+                     ana="ATR">οὐλομένη</w> 
+                  <w n="1-7"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-8']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-9'])"
+                     ana="SBJ_CO">σκοτόμαινα</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="1-9"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-13'])"
+                     ana="SBJ_CO">βρόμος</w> 
+                  <w n="1-10" ana="COORD">τε</w> 
+                  <w n="1-11"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-12'])"
+                     ana="ATR">δεινὸς</w> 
+                  <w n="1-12"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-16'])"
+                     ana="ATR">ἠνεμωμένης</w> 
+                  <w n="1-13"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-17'])"
+                     ana="ATR">ἁλός</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="1-15" ana="SBJ">οἵ</w> 
+                  <w n="1-16" ana="ADV">ποτε</w> 
+                  <w n="1-17"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-22']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-23'])"
+                     ana="OBJ">νῆ᾽</w> 
+                  <w n="1-18"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-20']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-21'])"
+                     ana="ATR">ἐκύλισαν</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="1-20"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-24'])"
+                     ana="AuxP">ἐφ᾽</w> 
+                  <w n="1-21"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-25'])"
+                     ana="ADV">ἧς</w> 
+                  <w n="1-22" ana="ATR">ὁ</w> 
+                  <w n="1-23"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-28'])"
+                     ana="ATR">τὰ</w> 
+                  <w n="1-24"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-28'])"
+                     ana="AuxZ">πολλὰ</w> 
+                  <w n="1-25"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-29']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-30']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-31'])"
+                     ana="ATR">μελίφρων</w> 
+                  <w n="1-26"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-26'])"
+                     ana="SBJ">Ἀβδηρίων</w> 
+                  <w n="1-27"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-35'])"
+                     ana="OBJ">ἄπρηκτα</w> 
+                  <w n="1-28"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-37']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-38']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-39'])"
+                     ana="OBJ">θεοῖσιν</w> 
+                  <w n="1-29"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-33']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-34']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='1-36'])"
+                     ana="ATR">εὔχετο</w>
+                  <w ana="AuxK">:</w> 5 <w n="2-11"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-13']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-15'])"
+                     ana="PRED_CO">ῥαίσθη</w> 
+                  <w n="2-12"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-11'])"
+                     ana="AuxY">γὰρ</w> 
+                  <w n="2-13" ana="AuxP">διὰ</w> 
+                  <w n="2-14"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-14'])"
+                     ana="ADV">πάντα</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="2-16"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-16']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-17'])"
+                     ana="PRED_CO">προσηνέχθη</w> 
+                  <w n="2-17" ana="COORD">δὲ</w> 
+                  <w n="2-18"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-18']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-19']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-110'])"
+                     ana="ADV">κλύδωνι</w> 
+                  <w n="2-19"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-114'])"
+                     ana="ATR">τρηχεῖαν</w> 
+                  <w n="2-110"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-112'])"
+                     ana="AuxP">εἰς</w> 
+                  <w n="2-111"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-117'])"
+                     ana="OBJ">Σέριφον</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="2-113"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-130'])"
+                     ana="ATR">αἰδοίων</w> 
+                  <w n="2-114"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-118'])"
+                     ana="ADV">ὅθι</w> 
+                  <w n="2-115"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-127']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-128']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-129'])"
+                     ana="ATR">προξείνων</w> 
+                  <w n="2-116"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-124'])"
+                     ana="AuxP">ὑπὸ</w> 
+                  <w n="2-117"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-125']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-126'])"
+                     ana="OBJ">χερσὶ</w> 
+                  <w n="2-118"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-120']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-121']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-122'])"
+                     ana="ADV">λαχὼν</w> 
+                  <w n="2-119"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-123'])"
+                     ana="OBJ">πυρός</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="2-121"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-132']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-133'])"
+                     ana="ATR">ἵκετο</w> 
+                  <w n="2-122"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-134']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-135'])"
+                     ana="ATR">πάτρην</w> 
+                  <w n="2-123"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-136'])"
+                     ana="OBJ">Ἄβδηρα</w>
+                  <w ana="AuxX">,</w> 
+                  <w n="2-125"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-138']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-139']) tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-141'])"
+                     ana="ADV">κρωσσῷ</w> 
+                  <w n="2-126"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-140'])"
+                     ana="ATR">χαλκέῳ</w> 
+                  <w n="2-127"
+                     corresp="tlg1396.tlg001.teida-eng1.xml#xpointer(//*[@n='2-137'])"
+                     ana="ADV">περισταλείς</w>
+                  <w ana="AuxK">.</w>
+               </div>
+            </div>
+         </div>
+      </body>
+    </text>
+</TEI>
