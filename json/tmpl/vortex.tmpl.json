@@ -1,0 +1,18 @@
+{
+	"text": {
+		"sample": {
+			"label": "Vortex Sample",
+			"urn": "urn:cts:greekLit:tlg0012.tlg001.perseus-eng1",
+			"tag": [ "vortex", "river" ]
+		}
+	},
+	"img":{
+		"sample": { 
+			"src": null,
+			"thumb": null,
+			"label": null,
+			"description": null,
+			"tag": [ "vortex", "river" ]
+		}
+	}
+}
