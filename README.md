@@ -5,6 +5,8 @@
 Install node, npm, and grunt then run...
 
 	npm install
+	bundle install
+	bower install
 	grunt
 
 When developing be sure to run...
